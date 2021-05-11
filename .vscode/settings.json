@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         "java-practice/helloWorld",
         "java-practice/Singleton",
+        "java-practice/ObjectPractice2",
         "java-practice/ObjectPractice",
-        "java-practice/ObjectPractice2"
+        "java-practice/ReverseArrays/ArrayListReverse"
     ]
 }
