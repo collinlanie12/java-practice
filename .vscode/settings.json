@@ -3,9 +3,11 @@
         "java-practice/helloWorld",
         "java-practice/Singleton",
         "java-practice/ReverseArrays/InPlaceReverse",
+        "java-practice/ReverseArrays/ForLoopReverse",
         "java-practice/ReverseArrays/ArrayListReverse",
         "java-practice/ObjectPractice2",
         "java-practice/ObjectPractice",
-        "java-practice/ReverseArrays/ForLoopReverse"
+        "java-practice/HashTable/IteratingHash",
+        "java-practice/ArrayPractice/AddArray"
     ]
 }
